@@ -1,0 +1,7 @@
+.note-list{
+	padding:1rem 1rem;
+	border-bottom:1px solid #eee;
+}
+.note-list:hover{
+	background:#eee;
+}
