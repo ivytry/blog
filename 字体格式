@@ -1,0 +1,17 @@
+
+TrueType 字体：轮廓使用的是二次贝塞尔曲线，后缀名为“.ttf”
+
+OpenType 可以说是 TrueType 的扩展，OpenType 有和 TrueType 一样的封装格式（SFNT），
+可以使用 TrueType 的二次贝塞尔曲线的字体轮廓，也可以使用对曲线表现效果更好的三次贝塞尔曲线 CFF（PostScript Type 2） 
+
+WOFF 是 W3C 标准推荐的网页字体格式，其本质上是对 TrueType、OpenType 格式的压缩封装。
+
+EOT 是微软推出的网页字体格式，本质上是对 OpenType 格式精简再封装。
+
+格式转换：
+  由于 TrueType 是二次贝塞尔曲线，OpenType 一般是三次贝塞尔曲线，从三次转换到二次的过程不会是无损的，所以很可能产生偏差。
+  而且很多 TrueType 字体的 UMP （元素/单位）设置的很低，从现状来看，TrueType 字体的质量往往要低于 OpenType 字体。
+  
+  TrueType 转换到 OpenType 格式是无损的，因为 OpenType 格式甚至可以不用把二次贝塞尔曲线转换成三次贝塞尔曲线，而是直接包含 TrueType 的曲线。
+  
+  
