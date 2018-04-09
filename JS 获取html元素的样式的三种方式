@@ -1,0 +1,6 @@
+JS 获取 html元素的样式有三种方式：style、getComputedStyle 和 currentStyle等。区别在于：
+
+（1）style 只能获取行间样式，但能设置样式。
+
+（2）getComputedStyle 和 currentStyle 能够获取 行间样式/非行间样式/浏览器默认样式，但存在浏览器兼容问题，且不能设置样式。
+
