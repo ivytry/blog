@@ -1,0 +1,7 @@
+
+【Document】
+  对象方法：activeElement 返回当前获取焦点元素
+                         只读
+                         为元素设置焦点，可以使用 element.focus() 方法。
+                         可以使用 document.hasFocus() 方法来查看当前元素是否获取焦点。
+                         opera 9.6 以下版本不支持。
