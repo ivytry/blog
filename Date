@@ -1,0 +1,116 @@
+
+【Date】
+  用于处理日期与时间。
+  
+  创建 Date 对象： new Date()
+                  new Date(milliseconds)
+                  new Date(dateString)
+                  new Date(year, month, day, hours, minutes, seconds, milliseconds)
+                  
+  对象属性：constructor 返回对创建此对象的 Date 函数的引用。
+                       返回创建Date对象的函数原型：function Date() { [native code] }
+                       
+           prototype 使您有能力向对象添加属性和方法。
+           
+  对象方法：getDate() 从 Date 对象返回一个月中的某一天 (1 ~ 31)。dateObject 所指的月份中的某一天，使用本地时间。
+           setDate(day) 设置 Date 对象中月的某一天 (1 ~ 31)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getMonth() 从 Date 对象返回月份 (0 ~ 11)。一月为 0, 二月为 1, 以此类推。
+           setMonth(month,day) 设置 Date 对象中月份 (0 ~ 11)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getFullYear() 从 Date 对象以四位数字返回年份。返回1970年1月1日午夜至调整过日期的毫秒数。
+           setFullYear(year,month,day) 设置 Date 对象中的年份（四位数字）。
+           
+           getHours() 返回 Date 对象的小时 (0 ~ 23)。
+           setHours(hour,min,sec,millisec) 设置 Date 对象中的小时 (0 ~ 23)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getMinutes() 返回 Date 对象的分钟 (0 ~ 59)。
+           setMinutes(min,sec,millisec) 设置 Date 对象中的分钟 (0 ~ 59)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getSeconds() 返回 Date 对象的秒数 (0 ~ 59)。
+           setSeconds(sec,millisec) 设置 Date 对象中的秒钟 (0 ~ 59)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getMilliseconds() 返回 Date 对象的毫秒(0 ~ 999)。
+           setMilliseconds(millisec) 设置 Date 对象中的毫秒 (0 ~ 999)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getTime() 返回 1970 年 1 月 1 日至今的毫秒数。
+           valueOf() 返回 Date 对象的原始值。原始值返回1970年1月1日午夜以来的毫秒数！
+           setTime(millisec) 以毫秒设置 Date 对象。返回参数 millisec
+                             要设置的日期和时间据 GMT 时间 1970 年 1 月 1 日午夜之间的毫秒数。
+                             这种类型的毫秒值可以传递给 Date() 构造函数，可以通过调用 Date.UTC() 和 Date.parse() 方法获得该值。
+                             以毫秒形式表示日期可以使它独立于时区。
+                     
+           getDay() 从 Date 对象返回一周中的某一天 (0 ~ 6)。星期天为 0, 星期一为 1, 以此类推。
+           
+           ===============================================================================================================
+           
+           getUTCDate() 根据世界时从 Date 对象返回月中的一天 (1 ~ 31)。
+                        协调世界时 (UTC) 是以原子时秒长为基础，在时刻上尽量接近于世界时的一种时间计量系统。
+           setUTCDate(day) 根据世界时设置 Date 对象中月份的一天 (1 ~ 31)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getUTCMonth() 根据世界时从 Date 对象返回月份 (0 ~ 11)。
+           setUTCMonth(month,day) 根据世界时设置 Date 对象中月份 (0 ~ 11)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getUTCFullYear() 根据世界时从 Date 对象返回四位数的年份。
+           setUTCFullYear(year,month,day) 根据世界时设置 Date 对象中的年份（四位数字）。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getUTCHours() 根据世界时返回 Date 对象的小时 (0 ~ 23)。
+           setUTCHours(hour,min,sec,millisec) 根据世界时设置 Date 对象中的小时 (0 ~ 23)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getUTCMinutes() 根据世界时返回 Date 对象的分钟 (0 ~ 59)。
+           setUTCMinutes(min,sec,millisec) 根据世界时设置 Date 对象中的分钟 (0 ~ 59)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getUTCSeconds() 根据世界时返回 Date 对象的秒钟 (0 ~ 59)。
+           setUTCSeconds(sec,millisec) 根据世界时设置 Date 对象中的秒钟 (0 ~ 59)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           getUTCMilliseconds() 根据世界时返回 Date 对象的毫秒(0 ~ 999)。
+           setUTCMilliseconds(millisec) 根据世界时设置 Date 对象中的毫秒 (0 ~ 999)。返回1970年1月1日午夜至调整过日期的毫秒数。
+           
+           Date.parse(datestring) 返回1970年1月1日午夜到指定日期（字符串）的毫秒数。  ？？？？？
+           Date.UTC(year,month,day,hours,minutes,seconds,millisec) 根据世界时返回 1970 年 1 月 1 日 到指定日期的毫秒数。
+           
+           getUTCDay() 根据世界时从 Date 对象返回周中的一天 (0 ~ 6)。
+           
+           getTimezoneOffset() 返回本地时间与格林威治标准时间 (GMT) 的分钟差,以分钟为单位。
+                               例如，如果时区为 GMT+2, 将返回-120 。
+                               由于使用夏令时的惯例，该方法的返回值不是一个常量。
+                               协调世界时，又称世界统一时间，世界标准时间，国际协调时间，简称UTC（Universal Coordinated Time）。
+                               UTC 时间即是 GMT（格林尼治） 时间。
+           
+           ===============================================================================================================
+           
+           toDateString() 把 Date 对象的日期部分转换为字符串。
+           
+           toISOString() 使用 ISO 标准返回字符串的日期格式。
+                         该标准称为 ISO-8601 ，格式为: YYYY-MM-DDTHH:mm:ss.sssZ   ？？？？？
+                         IE8 及更早IE版本不支持
+                         
+           toJSON() 以 JSON 数据格式返回日期字符串。
+                    用同样的格式就像x ISO-8601 标准: YYYY-MM-DDTHH:mm:ss.sssZ
+                    IE8 及 更早 IE 版本不支持
+                    
+           toLocaleDateString() 根据本地时间格式，把 Date 对象的日期部分转换为字符串。
+           
+           toString() 把 Date 对象转换为字符串。
+           
+           toTimeString() 把 Date 对象的时间部分转换为字符串。
+           
+           toUTCString() 根据世界时，把 Date 对象转换为字符串。
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+ 
+ 
+                     
