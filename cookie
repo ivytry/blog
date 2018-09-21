@@ -1,1 +1,49 @@
 cookie 是存储于访问者的计算机中的变量。每当同一台计算机通过浏览器请求某个页面时，就会发送这个 cookie。你可以使用 JavaScript 来创建和取回 cookie 的值。
+
+
+Session 对象存储特定用户会话所需的属性及配置信息。
+Session 对象最常见的一个用法就是存储用户的首选项。
+注意 会话状态仅在支持 cookie 的浏览器中保留。
+Session是指一个终端用户与交互系统进行通信的时间间隔，通常指从注册进入系统到注销退出系统之间所经过的时间。
+一个Session的概念需要包括特定的客户端，特定的服务器端以及不中断的操作时间。
+
+session的工作原理
+（1）当一个session第一次被启用时，一个唯一的标识被存储于本地的cookie中。
+（2）首先使用session_start()函数，PHP从session仓库中加载已经存储的session变量。
+（3）当执行PHP脚本时，通过使用session_register()函数注册session变量。
+（4）当PHP脚本执行结束时，未被销毁的session变量会被自动保存在本地一定路径下的session库中，这个路径可以通过php.ini文件中的session.save_path指定，下次浏览网页时可以加载使用。
+
+session机制
+session(会话) 指有始有终的一系列动作/消息
+
+
+http://172.3.2.55/webleadreport/reports/ccgp/index.asp
+admin
+master4s1n0
+
+http://172.3.2.55/weblead/
+
+http://logcenter.chinacache.com/URLGetter?username=czb-ccgp&password=qazQAZ!&date=20180618
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
