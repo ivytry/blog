@@ -1,0 +1,15 @@
+
+1、打开cmd控制台，输入 ：java -cp F:\Oracle\Middleware\wlserver_10.3\server\lib\weblogic.jar weblogic.security.utils.AdminAccount  newUser newPwd .
+
+说明：该命令执行后会在当前路径下（C:\Users\Administrator）生成DefaultAuthenticatorInit.ldift文件，把生成的新文件复制替换
+F:\Oracle\Middleware\user_projects\domains\base_domain\security\DefaultAuthenticatorInit.ldift，替换之前先备份。
+
+2、替换完成后，找到F:\Oracle\Middleware\user_projects\domains\base_domain\servers\AdminServer\security\boot.properties备份后打开，将密文的用户名和密码修改为1步命令行中的明文用户名和密码：
+username=newUser
+password=newPwd
+
+3、找到F:\Oracle\Middleware\user_projects\domains\base_domain\servers\AdminServer\data\ldap\DefaultAuthenticatormyrealmInit.initialized文件，备份后删除。
+
+4.重启weblogic，打开http://localhost:7001/console登录成功。
+
+ 
