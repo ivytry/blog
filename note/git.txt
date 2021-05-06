@@ -1,0 +1,7 @@
+执行：git push
+结果：fatal: unable to access 'https://github.com/ivytry/blog.git/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053
+解决：
+1、修改证书校验：为.git/config配置文件增加配置（无效）：
+[http]
+    sslVerify = false
+2、给git缓存容量扩容：执行：git config http.postBuffer 52428800 （成功）
