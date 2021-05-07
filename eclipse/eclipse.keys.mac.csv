@@ -1,0 +1,403 @@
+Run/Debug,Resume,F8,Debugging
+Text Editing,Text End,,Editing Text
+Text Editing,Toggle Folding,Numpad_Divide,Editing Text
+Text Editing,Move Lines Down,乒,Editing Text
+Navigate,Open Type Hierarchy,F4,In Windows
+Window,Next Perspective,F8,In Windows
+Server,Debug,乒D,In Servers View
+Server,Run,乒R,In Servers View
+Edit,Select Previous Element,把,Editing Java Source
+Navigate,Backward History,乒,In Windows
+Edit,Incremental Find,J,Editing Text
+Window,Show View Menu,F10,In Dialogs and Windows
+File,Save All,把S,In Windows
+Database Tools,Debug,乒D,Editing SQL
+Terminal view commands,Copy,C,Terminal Widget in Focus
+Run/Debug,Debug OSGi Framework,乒D O,In Windows
+Text Editing,Text Start,,Editing Text
+Git,Paste Repository Path or URI,V,In Git Repositories View
+Refactor - JavaScript,Rename - Refactoring ,乒R,JavaScript View
+Window,Quick Access,3,In Windows
+Text Editing,Line Start,,Editing Text
+Source,Quick Assist - Assign to field,2 F,Editing Java Source
+Source,Quick Assist - Assign to local variable,2 L,Editing Java Source
+Text Editing,Delete to End of Line,"把弛,Editing Text""",
+Text Editing,Collapse,Numpad_Subtract,Editing Text
+Edit,Add Maven Plugin,把P,Editing XML Source
+Database Tools,Execute Selected Text As One Statement,永,Editing SQL
+Navigate,Previous Page,把F5,Using Web Page Editor
+Text Editing,Duplicate Lines,乒,Editing Text
+Source,Add Import,把M,Editing JavaScript Source
+Views,JavaScript Script Explorer,乒Q P,JavaScript View
+Navigate,Quick Outline,O,WikiText Markup Source Context
+Refactor - JavaScript,Show Refactor Quick Menu,乒T,JavaScript View
+Navigate,Open Call Hierarchy,玄,In Windows
+Navigate,Next,.,In Windows
+Terminal view commands,Quick Access,乒,Terminal Widget in Focus
+Server,Publish,乒P,In Servers View
+Views,Show View (Package Explorer),乒Q P,In Windows
+Navigate,Matching Character,把P,Editing in Structured Text Editors
+Text Editing,Reset Structure,把Numpad_Multiply,Editing Text
+Navigate,Quick Outline,O,Editing Java Source
+Source,Toggle Comment,把C,Editing Properties Files
+Navigate,Go to Matching Bracket,把P,Editing JavaScript Source
+Run/Debug,New Rendering,N,In Memory View
+Source,Toggle Mark Occurrences,乒O,Editing JavaScript Source
+Run/Debug,Debug Ant Build,乒D Q,In Windows
+Task Repositories,Mark Task Complete,把永,In Tasks View
+Navigate,Forward History,],In Windows
+Search,References in Workspace,把G,JavaScript View
+Web Page Editor Layout,Vertical Layout,把F9,Using Web Page Editor
+Text Editing,Delete Line,D,Editing Text
+Edit,Copy,C,In Dialogs and Windows
+Navigate,Quick Outline,O,Editing in Structured Text Editors
+Text Editing,Select Next Word,把乒,Editing Text
+Window,Activate Editor,F12,In Windows
+Navigate,Previous Page,把氾7,In Windows
+Navigate,Show In Breadcrumb,乒B,Editor Breadcrumb Navigation
+Edit,Previous Sibling,把,Editing in Structured Text Editors
+SQL Results View,Remove Result,"弛,In Windows""",
+Text Editing,Copy Lines,乒,Editing Text
+Window,Toggle Full Screen,F,In Windows
+Window,Toggle Split Editor (Vertical),把[,In Windows
+Run/Debug,Debug on Server,把汁 R,In Windows
+Edit,Matching Tag,把>,Editing in Structured Text Editors
+Navigate,Go to Previous Member,乒,Editing JavaScript Source
+Navigate,Show In Breadcrumb,乒B,Editing Java Source
+Edit,Open Selection,F3,Editing in Structured Text Editors
+File,Properties,I,In Windows
+File,New menu,乒N,In Windows
+Refactor - JavaScript,Move - Refactoring ,乒V,JavaScript View
+Source,Quick Assist - Rename in file,2 R,Editing Java Source
+Edit,Incremental Find Reverse,把J,Editing Text
+Views,Show View (Type Hierarchy),乒Q T,In Windows
+Edit,Quick Fix,1,In Dialogs and Windows
+Run/Debug,Step Over,F6,Debugging
+Git,Commit...,乒3,In Windows
+Navigate,Go To Next Unread Task,乒,In Tasks View
+Source,Organize Imports,把O,JavaScript View
+Edit,Format,把F,Editing in Structured Text Editors
+Source,Open Declaration,F3,Editing Ant Buildfiles
+Task Repositories,Mark Task Unread,把白,In Tasks View
+Web Page Editor Layout,Horizontal Layout,把F10,Using Web Page Editor
+Project,Build All,B,In Windows
+Navigate,Go to Next Member,乒,Editing Java Source
+Run/Debug,Rerun JUnit Test,弗,In Windows
+Run/Debug,Run JUnit Test,乒X T,In Windows
+Navigate,Open Type Hierarchy,F4,JavaScript View
+Source,Add Block Comment,/,Editing Java Source
+Refactor - Java,Move - Refactoring ,乒V,In Windows
+Window,Switch to Editor,把E,In Windows
+Window,Show System Menu,把F10,In Windows
+Run/Debug,Run Eclipse Application,乒X E,In Windows
+Source,Remove Occurrence Annotations,乒U,Editing Java Source
+Source,Add Javadoc Comment,乒J,In Windows
+Navigate,Open Structure,F3,Editing JavaScript Source
+Run/Debug,Java Breakpoint Properties,乒,In Breakpoints View
+SQL Results View,Terminate Result,Break,In Windows
+Focused UI,Focus on Active Task,把玄,In Windows
+Search,Declaration in Workspace,G,JavaScript View
+Window,Close Dialog,W,In Dialogs
+Views,Show View (Variables),乒Q V,In Windows
+Run/Debug,Execute,U,In Windows
+File,Refresh,F5,In Windows
+Edit,Add Block Comment,/,Editing in Structured Text Editors
+Terminal view commands,Terminal view insert,田,Terminal Typing Connected
+Window,Update Project,氾5,In Windows
+Navigate,Open Declaration,F3,JavaScript View
+Edit,Matching Tag,把.,Editing in Structured Text Editors
+Text Editing,Select Text Start,把,Editing Text
+Run/Debug,Add Memory Block,乒M,In Memory View
+Navigate,Open Attached Javadoc,F2,In Windows
+Navigate,Deactivate Task,把F9,In Windows
+Database Tools,Goto Matching Token,把P,Editing SQL
+Run/Debug,Run,把F11,In Windows
+Edit,Find Previous,把K,Editing Text
+Run/Debug,Next Page of Memory,把.,In Table Memory Rendering
+JavaScript Debug,Open Source,把3,Debugging
+Navigate,Open Structure,F3,Editing Java Source
+Navigate,Quick Outline,O,PDE editor
+Views,Show View (Javadoc),乒Q J,In Windows
+Web Page Editor Layout,Source Code,把F12,Using Web Page Editor
+View,Zoom In,=,In Windows
+Terminal view commands,Terminal view insert,犯,Terminal Typing Connected
+Task Editor,Submit Task,把申,In Tasks Editor
+Text Editing,Show Tooltip Description,F2,Editing Text
+Run/Debug,Run Java Application,乒X J,In Windows
+Window,Select Maven Profiles,田,In Windows
+Run/Debug,Run on Server,把目 R,In Windows
+Navigate,Open Task,乒F12,In Windows
+Views,Show View (Task List),乒Q K,In Windows
+Task Repositories,New Subtask,把用,In Tasks View
+Run/Debug,Display,把D,In Dialogs and Windows
+Text Editing,Collapse All,把Numpad_Divide,Editing Text
+Views,Show View (Error Log),乒Q L,In Windows
+Task Repositories,Mark Task Read,把甲,In Tasks Editor
+Run/Debug,Previous Page of Memory,"把,",In Table Memory Rendering
+Source,Remove Block Comment,把\,Editing Java Source
+Source,Show Source Quick Menu,乒S,JavaScript View
+Window,Previous Editor,把F6,In Windows
+Navigate,Open Type in Hierarchy,把H,JavaScript View
+Source,Format,把F,Editing Java Source
+Source,Remove Block Comment,\,Editing Java Source
+Run/Debug,Debug Eclipse Application,乒D E,In Windows
+Text Editing,Text Start,,Editing Text
+Edit,Select Next Element,把,Editing in Structured Text Editors
+Window,Show Contributing Plug-in,把氾3,In Dialogs and Windows
+Terminal view commands,Copy,把C,Terminal Widget in Focus
+Edit,Context Information,把正,In Windows
+Views,Show View (Synchronize),乒Q Y,In Windows
+Text Editing,Insert Line Above Current Line,把,Editing Text
+Navigate,Open Type in Hierarchy,把H,In Windows
+Navigate,Next Page,氾7,In Windows
+Source,Toggle Comment,7,Editing Java Source
+Task Repositories,Show Tooltip Description,F4,In Tasks View
+JavaScript Debug,JavaScript Breakpoint Properties,,In Breakpoints View
+Task Repositories,New Subtask,Insert,In Tasks View
+Views,Show View (Cheat Sheets),乒Q H,In Windows
+Text Editing,Select Line End,把,Editing Text
+Terminal view commands,Terminal view insert,民,Terminal Typing Connected
+Terminal view commands,Maximize Active View or Editor,乒,Terminal Widget in Focus
+Views,Show View,乒Q Q,In Windows
+Views,JavaScript Type Hierarchy,乒Q T,JavaScript View
+Edit,Remove Block Comment,把\,Editing in Structured Text Editors
+Edit,Select Next Element,把,Editing Java Source
+Edit,Remove Block Comment,\,Editing in Structured Text Editors
+Focused UI,Make Landmark,把乒,In Windows
+Refactor - Java,Extract Local Variable,乒L,In Windows
+Views,JavaScript Declaration,乒Q D,JavaScript View
+Source,Rename In File,乒R,Editing Ant Buildfiles
+Navigate,Open Plug-in Artifact,把A,In Windows
+View,Zoom Out,-,In Windows
+Text Editing,Expand All,Numpad_Multiply,Editing Text
+Task Repositories,Mark Task Incomplete,把玉,In Tasks Editor
+Uncategorized,Copy SHA-1,C,In Git Reflog View
+Edit,Word Completion,乒/,Editing Text
+Edit,Select Enclosing Element,把乒,Editing in Structured Text Editors
+Database Tools,Run,乒R,Editing SQL
+Edit,Undo,Z,In Dialogs and Windows
+Run/Debug,Debug Java Application,乒D J,In Windows
+Edit,Select All,A,In Dialogs and Windows
+Search,References in Workspace,把G,In Windows
+Navigate,Expand All,把Numpad_Multiply,In Windows
+Navigate,Backward History,[,In Windows
+Source,Show Source Quick Menu,乒S,In Windows
+Run/Debug,Run to Line,R,Debugging
+Navigate,Quick Outline,把O,Task Markup Editor Source Context
+Text Editing,Scroll Line Up,,Editing Text
+Edit,Find Next,K,Editing Text
+Edit,Add Block Comment,把/,Editing in Structured Text Editors
+Run/Debug,Debug JUnit Plug-in Test,乒D P,In Windows
+Edit,Add Maven Dependency,把D,Editing XML Source
+JavaScript Debug,Evaluate,把汀,Editing JavaScript Source
+Source,Correct Indentation,I,Editing Java Source
+Uncategorized,Add Artifact to Target Platform,把乒A,In Windows
+Edit,Select Previous Element,把,Editing JavaScript Source
+Edit,Format Active Elements,I,Editing in Structured Text Editors
+Refactor - JavaScript,Inline,乒I,JavaScript View
+Navigate,Go to Next Member,乒,Editing JavaScript Source
+Source,Remove Block Comment,把\,Editing JavaScript Source
+Terminal view commands,Paste,Insert,Terminal Widget in Focus
+Text Editing,Next Word,乒,Editing Text
+Terminal view commands,Terminal view insert,用,Terminal Typing Connected
+Navigate,Next Page,F5,Using Web Page Editor
+Spy,Plug-in Selection Spy,把氾1,In Dialogs and Windows
+Navigate,Go to Line,L,Editing Text
+Refactor - Java,Rename - Refactoring ,乒R,In Windows
+Window,Previous Perspective,把F8,In Windows
+Run/Debug,Close Rendering,W,In Memory View
+File,Rename,F2,In Windows
+Source,Surround With Quick Menu,乒Z,In Windows
+Source,Quick Assist - Assign to local variable,2 L,Editing JavaScript Source
+Run/Debug,Run XSLT Transformation,乒X X,In Windows
+Views,Show View (History),乒Q Z,In Windows
+Edit,Toggle Comment,把C,Editing in Structured Text Editors
+Refactor - Java,Extract Method,乒M,In Windows
+Run/Debug,Run JUnit Plug-in Test,乒X P,In Windows
+Edit,Cut,X,In Dialogs and Windows
+Navigate,Next Sub-Tab,乒,In Dialogs and Windows
+Source,Organize Imports,把O,In Windows
+Search,Open Search Dialog,H,In Windows
+Terminal view commands,Terminal view insert,永,Terminal Typing Connected
+Uncategorized,Show Markup Cheat Sheet,F1,WikiText Markup Source Context
+Navigate,Last Edit Location,Q,In Windows
+Web Page Editor Layout,Graphical Designer,把F11,Using Web Page Editor
+Navigate,Collapse All,把Numpad_Divide,In Windows
+Text Editing,Move Lines Up,乒,Editing Text
+Run/Debug,Debug JUnit Test,乒D T,In Windows
+Edit,Content Assist,弁,In Dialogs and Windows
+Text Editing,Select Line Start,把,Editing Text
+Refactor - JavaScript,Extract Local Variable,乒L,JavaScript View
+File,Properties,乒,In Windows
+Terminal view commands,Terminal view insert,甲,Terminal Typing Connected
+Task Repositories,New Local Task,Insert,In Tasks View
+Refactor - Java,Change Method Signature,乒C,In Windows
+Window,Maximize Active View or Editor,M,In Windows
+Source,Toggle Comment,把C,Editing Java Source
+Navigate,Open Manifest,把乒M,In Windows
+Run/Debug,Run Ant Build,乒X Q,In Windows
+Search,Show Occurrences in File Quick Menu,把U,In Windows
+Edit,Context Information,正,In Windows
+Navigate,Open Declaration,F3,In Windows
+Terminal view commands,Terminal view insert,皿,Terminal Typing Connected
+Terminal view commands,Paste,把V,Terminal Widget in Focus
+Navigate,Previous,把.,In Windows
+SQL Results View,Remove All Visible Results,"把弛,In Windows""",
+Manifest Editor Source,Format Source,把F,PDE editor
+Source,Add Import,把M,Editing Java Source
+Terminal view commands,Terminal view insert,矛,Terminal Typing Connected
+Views,Show View (Console),乒Q C,In Windows
+Text Editing,Scroll Line Down,,Editing Text
+Run/Debug,Debug,F11,In Windows
+Terminal view commands,Terminal view insert,疋,Terminal Typing Connected
+Focused UI,Make Less Interesting,把乒,In Windows
+Edit,Word Completion,.,Editing Text
+Database Tools,Execute All,乒X,Editing SQL
+Window,Previous View,把F7,In Windows
+Edit,Next Sibling,把,Editing in Structured Text Editors
+Edit,Next Sibling,把,Editing in Structured Text Editors
+File,Save,S,In Windows
+Run/Debug,Run Maven Build,把目 M,In Windows
+Run/Debug,Debug XSLT Transformation,乒D X,In Windows
+Edit,Restore Last Selection,把,Editing Java Source
+Window,Show Ruler Context Menu,F10,Editing Text
+Terminal view commands,Copy,Insert,Terminal Widget in Focus
+Task Repositories,Mark Task Unread,把白,In Tasks Editor
+Terminal view commands,Terminal view insert,玄,Terminal Typing Connected
+Navigate,Forward History,乒,In Windows
+Views,Show View (Problems),乒Q X,In Windows
+Source,Toggle Comment,/,Editing JavaScript Source
+Text Editing,Delete Previous Word,乒,Editing Text
+Run/Debug,Run Java Applet,乒X A,In Windows
+Text Editing,Expand,Numpad_Add,Editing Text
+Edit,Occurrences in File,把A,Editing in Structured Text Editors
+ASA 9.x table schema editor,Paste,皮,In Windows
+Run/Debug,Force Return,乒F,In Windows
+Text Editing,Select Previous Word,把乒,Editing Text
+Run/Debug,Toggle Breakpoint,把B,In Windows
+EMF Code Generation,Generate Code,把犯,In Windows
+Window,Toggle Split Editor (Horizontal),把-,In Windows
+Navigate,Previous Sub-Tab,乒,In Dialogs and Windows
+Source,Format,把F,Editing JavaScript Source
+Terminal view commands,Terminal view insert,申,Terminal Typing Connected
+Navigate,Go To Previous Unread Task,乒,In Tasks View
+Edit,Restore Last Selection,把乒,Editing in Structured Text Editors
+Run/Debug,Toggle Memory Monitors Pane,T,In Memory View
+Refactor - JavaScript,Change Function Signature,乒C,JavaScript View
+Views,Show View (Breakpoints),乒Q B,In Windows
+Navigate,Quick Hierarchy,T,Editing Java Source
+Source,Quick Assist - Assign to var,2 F,Editing JavaScript Source
+ASA 9.x table schema editor,Copy,永,In Windows
+Task Repositories,Quick Outline,O,In Tasks Editor
+Views,Show View (Search),乒Q S,In Windows
+Text Editing,Delete Next Word,"乒弛,Editing Text""",
+Terminal view commands,Terminal view insert,汁,Terminal Typing Connected
+Source,Quick Assist - Rename in file,2 R,Editing JavaScript Source
+Source,Toggle Comment,把C,Editing JavaScript Source
+Edit,Select Previous Element,把,Editing in Structured Text Editors
+Spy,Plug-in Menu Spy,把氾2,In Dialogs and Windows
+Terminal view commands,Terminal view insert,氾,Terminal Typing Connected
+Navigate,Go to Matching Bracket,把P,Editing Java Source
+Navigate,Search Repository for Task,把F12,In Windows
+Source,Toggle Ant Mark Occurrences,乒O,Editing Ant Buildfiles
+Edit,Add Im&port,把M,Editing JSP Source
+Terminal view commands,Terminal view insert,氐,Terminal Typing Connected
+Text Editing,Text End,,Editing Text
+Navigate,Activate Task,F9,In Windows
+Source,Copy Qualified Name,把C,Editing Java Source
+Run/Debug,Step Into,F5,Debugging
+Edit,Toggle Insert Mode,把Insert,Editing Text
+Navigate,Open Call Hierarchy,玄,JavaScript View
+Text Editing,To Upper Case,把X,Editing Text
+Edit,Redo,把Z,In Dialogs and Windows
+Task Repositories,Mark Task Complete,把永,In Tasks Editor
+Source,Format,把F,Editing Ant Buildfiles
+Terminal view commands,Terminal view insert,汀,Terminal Typing Connected
+Source,Indent Line,I,Editing JavaScript Source
+Edit,Toggle Block Selection,乒A,Editing Text
+Navigate,Go to Previous Member,乒,Editing Java Source
+Run/Debug,Step Return,F7,Debugging
+Focused UI,Show Context Quick View,把乒,In Windows
+Text Editing,To Lower Case,把Y,Editing Text
+Run/Debug,EOF,D,In I/O Console
+Run/Debug,Debug Java Applet,乒D A,In Windows
+Run/Debug,Run OSGi Framework,乒X O,In Windows
+Views,Show View (),乒Q D,In Windows
+Task Repositories,New Local Task,用,In Tasks View
+Text Editing,Insert Line Below Current Line,把,Editing Text
+Refactor - JavaScript,Extract Function,乒M,JavaScript View
+Database Tools,Execute Selected Text,目,Editing SQL
+Navigate,Quick Outline,O,Editing JavaScript Source
+Edit,Delete,"弛,In Windows""",
+Run/Debug,Step Into Selection,氾5,Debugging
+Run/Debug,Use Step Filters,F5,In Windows
+Database Tools,Edit in SQL Query Builder...,由,Editing SQL
+Text Editing,Toggle Overwrite,Insert,Editing Text
+Window,Show Context Menu,F10,In Dialogs and Windows
+Window,Next Editor,F6,In Windows
+File,Close All,把W,In Windows
+Navigate,Next Page,F5,In Faces Config Editor
+Terminal view commands,Paste,V,Terminal Widget in Focus
+Navigate,Open Type,把T,In Windows
+Navigate,Open Remote Task,把乒F12,In Windows
+Source,Remove Occurrence Annotations,乒U,Editing JavaScript Source
+Server,Stop,乒S,In Servers View
+Edit,Previous Sibling,把,Editing in Structured Text Editors
+Source,Toggle Mark Occurrences,乒O,Editing Java Source
+Edit,Paste,V,In Dialogs and Windows
+Text Editing,Select Text End,把,Editing Text
+Edit,Find and Replace,F,In Windows
+Views,Show View (Outline),乒Q O,In Windows
+Edit,Move,把皮,Editing JSP Source
+ASA 9.x table schema editor,Cut,目,In Windows
+Edit,Select Enclosing Element,把,Editing Java Source
+File,Print,P,In Windows
+Source,Add JSDoc Comment,乒J,JavaScript View
+Search,Show Occurrences in File Quick Menu,把U,JavaScript View
+Task Repositories,Mark Task Read and Go To Previous Unread Task,把乒,In Tasks View
+Navigate,Previous Page,把F5,In Faces Config Editor
+Window,Quick Switch Editor,E,In Windows
+Window,Show Key Assist,把L,In Dialogs and Windows
+Navigate,Show In...,乒W,In Windows
+Run/Debug,Inspect,把I,In Dialogs and Windows
+Refactor - Java,Inline,乒I,In Windows
+File,New,N,In Windows
+Source,Quick Assist - Extract method,2 M,Editing Java Source
+Git,Copy Path to Clipboard,C,In Git Repositories View
+Navigate,Open Type,把T,Editing JavaScript Source
+Text Editing,Line End,,Editing Text
+Run/Debug,Terminate,F2,Debugging
+Edit,Select Next Element,把,Editing JavaScript Source
+Navigate,Open Resource,把R,In Windows
+File,Close,W,In Windows
+Database Tools,Execute Current Text,申,Editing SQL
+Source,Toggle Comment,7,Editing Properties Files
+Search,Declaration in Workspace,G,In Windows
+Terminal view commands,Terminal view insert,甘,Terminal Typing Connected
+Text Editing,Previous Word,乒,Editing Text
+Terminal view commands,Terminal view insert,皮,Terminal Typing Connected
+Run/Debug,Go to Address,G,In Table Memory Rendering
+Run/Debug,All Instances,把N,In Windows
+Task Repositories,Mark Task Read,把甲,In Tasks View
+Run/Debug,Next Memory Monitor,乒N,In Memory View
+Refactor - Java,Show Refactor Quick Menu,乒T,In Windows
+Task Repositories,Mark Task Read and Go To Next Unread Task,把乒,In Tasks View
+Edit,Restore Last Selection,把,Editing JavaScript Source
+Task Editor,Maximize Part,把M,In Tasks Editor
+Search,Find Text in Workspace,乒G,In Windows
+Edit,Rename,把甲,Editing JSP Source
+Navigate,Quick Hierarchy,T,Editing JavaScript Source
+Edit,Toggle Comment,/,Editing SQL
+Source,Toggle Comment,/,Editing Java Source
+Edit,Select Enclosing Element,把,Editing JavaScript Source
+Source,Toggle Comment,/,Editing Properties Files
+Source,Open External Documentation,F2,Editing Ant Buildfiles
+Navigate,Open External JSDoc,F2,JavaScript View
+Edit,Quick Diff Toggle,把Q,Editing Text
+Task Repositories,Mark Task Incomplete,把玉,In Tasks View
+Task Repositories,Open Selected Task,,In Tasks View
+Source,Surround With Quick Menu,乒Z,JavaScript View
+Source,Toggle Comment,7,Editing JavaScript Source
+Navigate,Open Maven POM,把田,In Windows
+Window,Next View,F7,In Windows
+Views,Documentation,乒Q J,JavaScript View
