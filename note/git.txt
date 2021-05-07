@@ -33,6 +33,9 @@ Enter same passphrase again:确认密码，无密码直接enter
 执行命令：ssh -T 远端地址
 
 
+branch 'master' of https://github.com/ivytry/blog
+branch 'gh-pages' of https://github.com/ivytry/blog
+
 
 
 
