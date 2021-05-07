@@ -1,7 +1,38 @@
+===================
 执行：git push
-结果：fatal: unable to access 'https://github.com/ivytry/blog.git/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053
+报错：fatal: unable to access 'https://github.com/ivytry/blog.git/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053
 解决：
 1、修改证书校验：为.git/config配置文件增加配置（无效）：
 [http]
     sslVerify = false
 2、给git缓存容量扩容：执行：git config http.postBuffer 52428800 （成功）
+===================
+
+===================
+配置ssh
+1、执行命令：ssh-keygen -C "邮箱"
+执行后需配置保存秘钥的文件和访问密码：
+Enter file in which to save the key (默认文件路径): 输入保存秘钥的文件，直接enter可保存到默认路径
+Enter passphrase (empty for no passphrase) 输入密码，无需密码可直接enter
+Enter same passphrase again:确认密码，无密码直接enter
+
+此时查看默认路径.ssh目录下可看到新增的一对秘钥id_rsa和id_rsa.pub
+
+2、将id_rsa.pub中的公钥，全部复制（包括最后的邮箱）添加到github ssh key中
+===================
+
+===================
+访问github从http方式改为ssh方式
+更改remote
+1、查看origin的url
+执行命令：git remote -v 
+2、把http更改为ssh地址
+执行命令：git remote set-url origin 远端地址
+远端地址为github上对应项目的ssh地址，复制粘贴过来即可
+3、验证是否设置成功
+执行命令：ssh -T 远端地址
+
+
+
+
+
